@@ -7,7 +7,6 @@
 🤖 Interested in AI & Emerging Technologies  
 🌱 Continuously learning, exploring & building  
 🚀 Love turning ideas into practical projects
-
 ✨ Open to learning, collaborating and creating!
 
 📍 Tumkur, Karnataka, India
