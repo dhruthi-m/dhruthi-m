@@ -1,12 +1,11 @@
 # Hi, I'm Dhruthi M 👋
 
-🎓 Information Science & Engineering Student  
-🏫 Siddaganga Institute of Technology,  Tumkur, Karnataka, India
+🎓 **Information Science & Engineering Student**  
+🏫 **Siddaganga Institute of Technology, Tumkur**
 
-💻 Passionate about Software Development  
-🤖 Interested in AI & Emerging Technologies  
-🌱 Continuously learning, exploring & building  
-🚀 Love turning ideas into practical projects
+💡 Passionate about **building innovative solutions through technology**  
+🚀 Turning ideas into **real-world projects**  
+🤖 Exploring **AI, Software Development & Cybersecurity**  
+🌱 Focused on **continuous learning and growth**
 
-✨ Open to learning, collaborating and creating!
-
+✨ *Learn. Build. Innovate.*
