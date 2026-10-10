@@ -1,6 +1,6 @@
 Hi, I'm Dhruthi M 👋
 
-🎓 Information Science & Engineering Student at Siddaganga Institute of Technology, Tumkur
+🎓 Information Science & Engineering Student at Siddaganga Institute of Technology, Tumkur, Karnataka.
 
 💻 Aspiring Software Engineer passionate about designing, developing, and optimizing technology-driven solutions.
 
